@@ -21,3 +21,10 @@ Analyze real website user behavior using Google Analytics 4 data stored in BigQu
 - Users interact mostly through page views
 - Engagement events show active usage
 - Dataset contains real website traffic data
+- ## 📊 Visualizations
+
+### Website Events Overview
+![Events Chart](event_chart.png)
+
+### Event Distribution
+![Pie Chart](event_pie.png)
