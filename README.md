@@ -47,3 +47,10 @@ This analysis helps understand:
 - Which actions are most common
 - How engaged visitors are
 - Overall website performance
+- ## 📊 Visualizations
+
+### Website Events Overview
+![Events Chart](event_chart.png)
+
+### Event Distribution
+![Pie Chart](event_pie.png)
