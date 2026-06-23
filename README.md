@@ -47,7 +47,6 @@ This analysis helps understand:
 - Which actions are most common
 - How engaged visitors are
 - Overall website performance
-- ## 📊 Visualizations
 
   ## 📊 Visualizations
 
