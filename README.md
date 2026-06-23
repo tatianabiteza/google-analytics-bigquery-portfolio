@@ -50,8 +50,10 @@ This analysis helps understand:
 
   ## 📊 Visualizations
 
+## 📊 Visualizations
+
 ### Website Events Overview
-![Events Chart](event_chart.png)
+![Events Chart](project_1_website_analysis/event_chart.png)
 
 ### Event Distribution
-![Pie Chart](event_pie.png)
+![Pie Chart](project_1_website_analysis/event_pie.png)
