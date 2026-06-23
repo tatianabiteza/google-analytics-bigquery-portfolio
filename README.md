@@ -1,17 +1,25 @@
 # 📊 Google Analytics BigQuery Portfolio
 
 ## 👋 About Me
-I am a beginner Data Analyst learning how to analyze real website data using Google BigQuery and Python.
+I am a Data Analyst learner building real-world analytics projects using Google BigQuery and Python.
+
+I analyze live website data from Google Analytics 4 (GA4) to understand user behavior, engagement, and website performance.
+
+This project is connected to a real website dataset stored in BigQuery and reflects actual user activity (page views, scrolls, and engagement events).
 
 ---
 
-## 📁 Project 1: Website Traffic Analysis
+## 🌐 Project Context
 
-### Goal
-Analyze user behavior using GA4 event data stored in BigQuery.
+This project analyzes real-time website behavior data collected from Google Analytics 4 (GA4).
 
-### Dataset
-la-vie-est-belle-project.analytics_541902922.events_20260620
+The dataset includes live user interactions such as:
+- Page views
+- Scroll behavior
+- User engagement events
+- Session activity
+
+The data is stored in Google BigQuery and queried using Python.
 
 ### Tools
 - Google BigQuery
@@ -31,3 +39,11 @@ la-vie-est-belle-project.analytics_541902922.events_20260620
 - Data Analysis (Python)
 - Data Visualization
 - Basic Business Insights
+
+## 📊 Business Value
+
+This analysis helps understand:
+- How users interact with the website
+- Which actions are most common
+- How engaged visitors are
+- Overall website performance
