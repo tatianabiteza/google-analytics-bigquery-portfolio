@@ -49,3 +49,10 @@ This analysis helps understand:
 - Overall website performance
 - ## 📊 Visualizations
 
+  ## 📊 Visualizations
+
+### Website Events Overview
+![Events Chart](event_chart.png)
+
+### Event Distribution
+![Pie Chart](event_pie.png)
