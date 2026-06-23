@@ -48,9 +48,7 @@ This analysis helps understand:
 - How engaged visitors are
 - Overall website performance
 
-  ## 📊 Visualizations
-
-## 📊 Visualizations
+ ## 📊 Visualizations
 
 ### Website Events Overview
 ![Events Chart](project_1_website_analysis/event_chart.png)
